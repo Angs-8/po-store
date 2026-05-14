@@ -1,0 +1,12 @@
+target/
+**/.DS_Store
+**/Thumbs.db
+.gradle/
+.mvn/
+.idea/
+.vscode/
+*.iml
+*.log
+*.tmp
+*.swp
+*.swo
